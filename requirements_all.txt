@@ -42,7 +42,7 @@ Mastodon.py==1.5.1
 # homeassistant.components.seven_segments
 # homeassistant.components.sighthound
 # homeassistant.components.tensorflow
-Pillow==10.2.0
+Pillow==13.0.0
 
 # homeassistant.components.plex
 PlexAPI==4.15.9
